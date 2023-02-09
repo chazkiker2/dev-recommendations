@@ -10,6 +10,7 @@
   - [The language/framework war](#the-languageframework-war)
 - [How to enter the vast world of coding](#how-to-enter-the-vast-world-of-coding)
   - [Web Development](#web-development)
+  - [How did I learn how to code? (Sparknotes overview of my coding journey)](#how-did-i-learn-how-to-code-sparknotes-overview-of-my-coding-journey)
 - [My Primary Languages](#my-primary-languages)
   - [In Order of "Difficulty" (Easiest to Hardest)](#in-order-of-difficulty-easiest-to-hardest)
   - [In Order of My Preference (Favorite to Least)](#in-order-of-my-preference-favorite-to-least)
@@ -61,6 +62,26 @@ Here are the primary categories that you'll see when people talk about web devel
 - Fullstack web development
   - This is simply where a developer covers both frontend and backend. It takes on a lot of different "versions". For instance, I am a fullstack developer with a backend-heavy lean. I primarily work in the backend, but I do a lot of *functional* frontend work. I am very rarely responsible for making some site look pretty... the frontend work I do is more about interacting with the backend API and shaping that data into something meaningful for the end user. (I avoid CSS and design as much as humanly possible, simply because I prefer functionality coding over design!)
 
+
+### How did I learn how to code? (Sparknotes overview of my coding journey)
+
+1. **[Summer 2019] Rafting and coding?**\
+With 0 coding knowledge, I was tasked to work on Google Sheets scripts (Google's variation of JavaScript) that drove our rafting company's scheduling spreadsheet. I immediately fell in love with the puzzle of working out problems with code.
+2. **[Summer 2019] Learn Python**\
+Python was my first language. I learned through [Codecademy's "Learn Python 3" course](https://www.codecademy.com/learn/learn-python-3), which was wonderful.
+1. **[Fall 2019-Spring 2020] CompSci Major (Freshman year)**\
+I committed to Belmont University for college before I knew I wanted to code. I switched my major to CompSci; I was 1 of 30 CompSci majors at the university. While I was at Belmont, I learned Object Oriented Programming principles in several classes. We used Java.
+1. **[Summer 2020] Self-taught web dev (post-freshman year summer)**\
+Belmont's CompSci program was lacking. I planned to transfer to CU Boulder for CompSci. I spent this summer learning JavaScript, HTML, CSS, React, and *a small bit* of backend programming. I used [Codecademy's Full-Stack Engineer career path](https://join.codecademy.com/learn/paths/full-stack-engineer-career-path/). Would recommend.
+1. **[Fall 2020–Spring 2021] Coding Bootcamp: Lambda School**\
+Covid happened and (like many others) changed my plans. It didn't make sense to pay $60k for CU Boulder if I were to be remote. Instead, I attended Lambda School, a coding bootcamp. There, I  studied fullstack web development. I deepened my knowledge of CSS, HTML, JavaScript; I learned everything there is to know about React; and I learned Java Spring to build backend APIs.\
+We also studied algorithms with an interview focus and went through "Labs" where we built actual products for real life stakeholders.
+   1. I highly recommend the bootcamp path if you're willing to forego a classic college experience.
+   2. Lambda School is now known as Bloomberg Institute... it's drastically different than when I attended and I would sadly no longer recommend folks attend. But! If you're interested in the bootcamp path, please contact me and I will happily provide some better recommendations.
+1. **[Summer 2021] Job Hunt & Open Source work**\
+While I was job hunting, I was also exploring other languages & frameworks. Simultaneously, I fell in love with Open-Source software. I worked on projects for RustLang (the open-source org behind the language of Rust) and did some work for a handful of cryptocurrency & blockchain startups.
+1. **[Fall 2021–Now] Full Time Software Developer at The Motley Fool**\
+I started with The Motley Fool in August of 2021. I've been there ever since and I've been happily working as a fullstack dev on their CommerceTech team. Our team primarily works in the backend with C# & ASP.NET ecosystem. Our primary frontend app uses Blazor. And we have several other applications that use Python and Django.
 
 ## My Primary Languages
 
